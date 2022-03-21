@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(158,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(159,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(163,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(164,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(165,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(166,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\openglproj\main.cpp(273,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  openglproj.vcxproj -> C:\Users\olivi\OneDrive\Desktop\faculta\an3\pg\proiect\openglproj\x64\Debug\openglproj.exe
